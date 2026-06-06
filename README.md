@@ -8,4 +8,4 @@ The legislation says that, if someone atack you, you cant do that too. I say tha
 
 *My reality is the truth*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=just-atech&show_icons=true&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-atech)](https://github.com/anuraghazra/github-readme-stats)
