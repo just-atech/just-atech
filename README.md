@@ -1,4 +1,4 @@
-<img width="1500" height="400" alt="_ (2)" src="https://github.com/user-attachments/assets/b5560d35-1525-48cd-a415-34e690827960" />
+<img width="1500" height="600" alt="_ (2)" src="https://github.com/user-attachments/assets/b5560d35-1525-48cd-a415-34e690827960" />
 
 
 > 	**"Never forget your rights"**
