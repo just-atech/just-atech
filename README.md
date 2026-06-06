@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com" 
+       alt="Banner RB_Framework" 
+       width="100%" 
+       height="200" 
+       style="object-fit: cover; object-position: center 35%; border-radius: 6px;" />
+</p>
+
 > 	**"Never forget your rights"**
 - You and all of us have the right for be cybersafe, the right to react, the right to hit back.
 
@@ -8,5 +16,5 @@ The legislation says that, if someone atack you, you cant do that too. I say tha
 
 *My reality is the truth*
 
-<img width="736" height="414" alt="_" src="https://github.com/user-attachments/assets/0bc489e4-5e85-4ec5-a6fa-36874f3ee9e9" />
+
 
