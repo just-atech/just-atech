@@ -1,16 +1,9 @@
-# Robot
-My first one project.
-Good all day, guys, after some good long time, i'm ready to make it public. Resuming, it automotizes processes that could be dificult for common techs, just like: monitor your entire network, expulse not invited peoples, create paylaods or inject SQL.
-    And much more.
+> 	**"Never forget your rights"**
+- You and all of us have the right for be cybersafe, the right to react, the right to hit back.
 
-It uses some tools as:
-  º Nmap
-  º Tshark
-  º Hydra
-  º John & Hashcat
-  º Gobuster
-  º SQLMap
-  º Nikto & Nuclei
-And the poor guy here made some by himself.
+I do some cyber security projects. My focus is automotize pentests, defense, and fightback.
+All peoples should have acess to all these tools, if dont have, thats really messed up.
 
-I wish you like using that, cause wasn't fun doing btw
+The legislation says that, if someone atack you, you cant do that too. I say that the legislation should shut the fuck up, listen and think again, just like Brazil.
+
+*My reality is the truth*
