@@ -7,3 +7,5 @@ All peoples should have acess to all these tools, if dont have, thats really mes
 The legislation says that, if someone atack you, you cant do that too. I say that the legislation should shut the fuck up, listen and think again, just like Brazil.
 
 *My reality is the truth*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=just-atech&show_icons=true&theme=github_dark)
