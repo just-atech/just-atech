@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://github.com/just-atech/just-atech/edit/main/README.md" 
-       alt="Banner RB_Framework" 
-       width="100%" 
-       height="200" 
-       style="object-fit: cover; object-position: center 35%; border-radius: 6px;" />
-</p>
-
 > 	**"Never forget your rights"**
 - You and all of us have the right for be cybersafe, the right to react, the right to hit back.
 
