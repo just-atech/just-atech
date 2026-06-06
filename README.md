@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2e81d87c-6547-4ab9-968f-0098a8bde675" width="100%">
+  <img src="https://github.com/user-attachments/assets/2e81d87c-6547-4ab9-968f-0098a8bde675" width="100%" height="200">
 </p>
 
 > 	**"Never forget your rights"**
