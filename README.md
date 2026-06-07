@@ -6,7 +6,7 @@
 I do some cyber security projects. My focus is automate pentests, defense, and fightback.
 All people should have access to all these tools, if dont have, thats really messed up.
 
-The legislation says that, if someone attack you, you cant do that too. I say that the legislation should shut the fuck up, listen and think again, just like Brazil.
+The legislation says that, if someone attack you, you cant do that too. I say that the entire government should shut the fuck up, listen and think again, just like Brazil.
 
 *My reality is the truth*
 
